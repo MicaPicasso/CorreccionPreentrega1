@@ -1,5 +1,5 @@
-export function ItemListContainer(){
+export function ItemListContainer({text}){
     return(
-        <p>No entendi bien que ubicar aca!</p>
+        <h1 className="ItemListContainer">{text}</h1>
     )
 }

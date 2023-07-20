@@ -96,3 +96,11 @@
   font-size: 25px;
   opacity: 50%
 }
+
+.ItemListContainer{
+  font-family:'Zen Maru Gothic', sans-serif;
+  padding-left: 30px;
+  padding-top: 30px;
+  font-weight: bold;
+  font-size: 50px;
+}
